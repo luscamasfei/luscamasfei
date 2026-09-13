@@ -22,6 +22,6 @@ Entusiasta no ramo da tecnologia e apaixonado pelo que eu faço.
 
 <br>
 
-*"Ainda tenho muito para aprender."*
+*Ainda tenho muito para aprender.*
 
 </div>

@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**luscamasfei/luscamasfei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.pinimg.com/originals/99/aa/29/99aa29afc9ce5e72263bea38fd62fd64.gif" width="480px" />
 
-Here are some ideas to get you started:
+# Lucas Maffei
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Sistemas de Informação @ UNISUL`
+
+Entusiasta no ramo da tecnologia e apaixonado pelo que eu faço.
+
+<br>
+
+### Tecnologias
+
+<img src="https://skillicons.dev/icons?i=java,python,vscode&theme=dark" />
+
+<br><br>
+
+### GitHub Stats
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luscamasfei&theme=github_dark" />
+
+<br>
+
+*"Ainda tenho muito para aprender."*
+
+</div>

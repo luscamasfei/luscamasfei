@@ -1,26 +1,17 @@
-<div align="center">
+# 👋🏼 Hi there! I'm Lucas Maffei. 
 
-<img src="https://i.pinimg.com/originals/99/aa/29/99aa29afc9ce5e72263bea38fd62fd64.gif" width="480px" />
 
-# Lucas Maffei
+- 🐧 A technology enthusiast passionate about what I do.
+- 🌱 Always looking to improve and learn more.
+- 🎯 My hobbies are anime, osu!, and running.
+<img src="https://i.pinimg.com/originals/69/4e/0d/694e0d4ee7e8ea5a6a049d4162cb05c3.gif" width="480px" />
 
-`Sistemas de Informação @ UNISUL`
+### Some technologies I use
 
-Entusiasta no ramo da tecnologia e apaixonado pelo que eu faço.
-
-<br>
-
-### Tecnologias
-
-<img src="https://skillicons.dev/icons?i=java,python,vscode&theme=dark" />
-
-<br><br>
+<img src="https://skillicons.dev/icons?i=java,python,maven,git,github,arch,vscode&theme=dark" />
 
 ### GitHub Stats
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luscamasfei&theme=github_dark" />
 
 <br>
-
-
-</div>

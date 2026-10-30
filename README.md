@@ -42,8 +42,6 @@ Fora dos estudos, gosto de anime, osu! e correr ao ar livre.
 
 ---
 
-### GitHub Stats
+## `// ESTATÍSTICAS GITHUB`
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luscamasfei&theme=github_dark" />
-
-<br>
+[![Estatísticas públicas de luscamasfei: repositórios públicos, seguidores e perfis seguidos. A data da consulta aparece no cartão.](assets/github-stats.svg)](https://github.com/luscamasfei)

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="224" viewBox="0 0 720 224" role="img" aria-labelledby="title desc">
+  <title id="title">Estatísticas públicas de luscamasfei no GitHub</title>
+  <desc id="desc">REPOSITÓRIOS PÚBLICOS: 20; SEGUIDORES : 7; SEGUINDO : 7. Consulta em 30/10/2026 04:32 UTC. Retrato estático.</desc>
+  <rect x="0.5" y="0.5" width="719" height="223" rx="4" fill="#0b0b0b" stroke="#424242"/>
+  <path d="M1 20V1h20 M699 223h20v-19" fill="none" stroke="#bdbdbd"/>
+  <text x="28" y="33" fill="#e4e4e4" font-family="monospace" font-size="18">luscamasfei / GitHub</text>
+  <path d="M28 50h664 M252 72v100 M468 72v100" stroke="#303030"/>
+
+  <g text-anchor="middle" font-family="monospace">
+    <text x="144" y="112" fill="#eeeeee" font-size="44">20</text>
+    <text x="144" y="145" fill="#bdbdbd" font-size="16">REPOSITÓRIOS</text>
+    <text x="144" y="165" fill="#bdbdbd" font-size="16">PÚBLICOS</text>
+  </g>
+  <g text-anchor="middle" font-family="monospace">
+    <text x="360" y="112" fill="#eeeeee" font-size="44">7</text>
+    <text x="360" y="145" fill="#bdbdbd" font-size="16">SEGUIDORES</text>
+    <text x="360" y="165" fill="#bdbdbd" font-size="16"></text>
+  </g>
+  <g text-anchor="middle" font-family="monospace">
+    <text x="576" y="112" fill="#eeeeee" font-size="44">7</text>
+    <text x="576" y="145" fill="#bdbdbd" font-size="16">SEGUINDO</text>
+    <text x="576" y="165" fill="#bdbdbd" font-size="16"></text>
+  </g>
+  <text x="28" y="204" fill="#a8a8a8" font-family="monospace" font-size="14">CONSULTA: 30/10/2026 04:32 UTC · DADOS PÚBLICOS</text>
+</svg>

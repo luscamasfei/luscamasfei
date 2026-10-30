@@ -18,9 +18,13 @@ Fora dos estudos, gosto de anime, osu! e correr ao ar livre.
 
 ---
 
-### Some technologies I use
+## `// TECNOLOGIAS`
 
-<img src="https://skillicons.dev/icons?i=java,python,maven,git,github,arch,vscode&theme=dark" />
+**Java é meu foco atual de estudos.** Python também faz parte das tecnologias com que tenho contato; Git, GitHub, Linux, Arch Linux e VS Code compõem meu conjunto de ferramentas e interesses. Esta seleção não representa domínio avançado.
+
+![Linguagens: Java e Python. Ferramentas e sistemas: Git, GitHub, Linux, Arch Linux e VS Code.](assets/technologies.svg)
+
+---
 
 ### GitHub Stats
 

@@ -1,12 +1,22 @@
 ![Lucas Maffei — desenvolvedor em formação. Banner monocromático com efeito glitch, personagem de mangá e cenário cósmico.](assets/banner.webp)
 
-# 👋🏼 Hi there! I'm Lucas Maffei. 
+## `// SOBRE MIM`
 
+Olá! Sou **Lucas Maffei**, estudante de **Sistemas de Informação na UNISUL** e desenvolvedor em formação.
 
-- 🐧 A technology enthusiast passionate about what I do.
-- 🌱 Always looking to improve and learn more.
-- 🎯 My hobbies are anime, osu!, and running.
-<img src="https://i.pinimg.com/originals/69/4e/0d/694e0d4ee7e8ea5a6a049d4162cb05c3.gif" width="480px" />
+Atualmente estudo **Java** e tenho interesse em desenvolvimento de software, Linux e jogos. Busco aprender continuamente e transformar esse aprendizado em prática.
+
+Fora dos estudos, gosto de anime, osu! e correr ao ar livre.
+
+---
+
+## `// ATUALMENTE`
+
+- **Estudos** — Java e fundamentos de desenvolvimento de software.
+- **Interesses** — Linux, jogos e novas possibilidades com tecnologia.
+- **Objetivo** — Consolidar minha base em programação para desenvolver meus próprios projetos.
+
+---
 
 ### Some technologies I use
 

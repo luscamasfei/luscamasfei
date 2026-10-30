@@ -26,6 +26,22 @@ Fora dos estudos, gosto de anime, osu! e correr ao ar livre.
 
 ---
 
+## `// PROJETOS EM DESTAQUE`
+
+### [Sistema de contas a pagar](https://github.com/luscamasfei/A3_Algoritmo_e_programacao)
+
+> **Java · Projeto acadêmico em equipe**
+>
+> Trabalho A3 da disciplina de Algoritmos e Programação: um sistema de contas a pagar desenvolvido em grupo, com minha participação.
+
+### [Liriane Wagner](https://github.com/luscamasfei/lirianewagner)
+
+> **JavaScript · Portfólio digital**
+>
+> Portfólio digital da arquiteta Liriane Wagner, de Passo Fundo (RS).
+
+---
+
 ### GitHub Stats
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luscamasfei&theme=github_dark" />

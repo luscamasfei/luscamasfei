@@ -8,7 +8,7 @@ Atualmente estudo **Java** e tenho interesse em desenvolvimento de software, Lin
 
 Fora dos estudos, gosto de anime, osu! e correr ao ar livre.
 
----
+![Divisor decorativo com linhas finas e efeito glitch.](assets/divider.svg)
 
 ## `// ATUALMENTE`
 
@@ -16,7 +16,7 @@ Fora dos estudos, gosto de anime, osu! e correr ao ar livre.
 - **Interesses** — Linux, jogos e novas possibilidades com tecnologia.
 - **Objetivo** — Consolidar minha base em programação para desenvolver meus próprios projetos.
 
----
+![Divisor decorativo com linhas finas e efeito glitch.](assets/divider.svg)
 
 ## `// TECNOLOGIAS`
 
@@ -24,7 +24,7 @@ Fora dos estudos, gosto de anime, osu! e correr ao ar livre.
 
 ![Linguagens: Java e Python. Ferramentas e sistemas: Git, GitHub, Linux, Arch Linux e VS Code.](assets/technologies.svg)
 
----
+![Divisor decorativo com linhas finas e efeito glitch.](assets/divider.svg)
 
 ## `// PROJETOS EM DESTAQUE`
 
@@ -40,8 +40,14 @@ Fora dos estudos, gosto de anime, osu! e correr ao ar livre.
 >
 > Portfólio digital da arquiteta Liriane Wagner, de Passo Fundo (RS).
 
----
+![Divisor decorativo com linhas finas e efeito glitch.](assets/divider.svg)
 
 ## `// ESTATÍSTICAS GITHUB`
 
 [![Estatísticas públicas de luscamasfei: repositórios públicos, seguidores e perfis seguidos. A data da consulta aparece no cartão.](assets/github-stats.svg)](https://github.com/luscamasfei)
+
+![Divisor decorativo com linhas finas e efeito glitch.](assets/divider.svg)
+
+> Pequenos progressos constantes resultam em grandes mudanças.
+
+![Encerramento cósmico monocromático com planeta, estrelas e textura de mangá.](assets/footer.webp)

@@ -1,3 +1,5 @@
+![Lucas Maffei — desenvolvedor em formação. Banner monocromático com efeito glitch, personagem de mangá e cenário cósmico.](assets/banner.webp)
+
 # 👋🏼 Hi there! I'm Lucas Maffei. 
 
 
